@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "youtube-1",
-    "slug": "youtube-1",
+    "name": "First Expo Aora",
+    "slug": "aora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
